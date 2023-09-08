@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+	"editor.quickSuggestions": {
+		"strings": "on"
+	},
+	"tailwindCSS.includeLanguages": {
+		"plaintext": "html"
+	},
+}
